@@ -1,0 +1,30 @@
+{
+  "name": "client-storage-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talkaminsky/client-storage-tools.git"
+  },
+  "keywords": [
+    "localStorage",
+    "storage",
+    "client",
+    "sessionStorage",
+    "coockie",
+    "coockies"
+  ],
+  "author": "Tal Kasminky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talkaminsky/client-storage-tools/issues"
+  },
+  "homepage": "https://github.com/talkaminsky/client-storage-tools#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

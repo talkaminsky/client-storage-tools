@@ -1,0 +1,1 @@
+module.exports.clientStorage = require('./src/client-storage');
